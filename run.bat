@@ -1,0 +1,2 @@
+python GetNthPrime.py
+pause
